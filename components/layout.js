@@ -10,6 +10,7 @@ export default function Layout({ children }) {
         <h1>UGC</h1>
         <a href="https://discord.gg/EVXYfrgyqh">support</a>
       </div>
+      <main>{children}</main>
     </div>
   )
 }
