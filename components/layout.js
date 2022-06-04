@@ -10,7 +10,7 @@ export default function Layout({ children }) {
         <h1 className="text-4xl text-violet-500">UGC</h1>
         <a className="text-2xl text-violet-500" href="https://discord.gg/EVXYfrgyqh">support</a>
       </div>
-      <main>{children}</main>
+      <main className="h-5">{children}</main>
     </div>
   )
 }
