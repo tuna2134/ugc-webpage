@@ -8,7 +8,7 @@ export default function Layout({ children }) {
       </Head>
       <div className="flex justify-between">
         <h1>UGC</h1>
-        <a href="">support</a>
+        <a href="https://discord.gg/EVXYfrgyqh">support</a>
       </div>
     </div>
   )
