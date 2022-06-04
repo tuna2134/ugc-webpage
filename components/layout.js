@@ -7,7 +7,7 @@ export default function Layout({ children }) {
         <title>union global chat公式サイト</title>
       </Head>
       <div className="flex justify-between">
-        <h1>UGC</h1>
+        <h1 className="text-4xl">UGC</h1>
         <a href="https://discord.gg/EVXYfrgyqh">support</a>
       </div>
       <main>{children}</main>
