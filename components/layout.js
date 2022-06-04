@@ -6,10 +6,10 @@ export default function Layout({ children }) {
       <Head>
         <title>union global chat公式サイト</title>
       </Head>
-      <div className="flex justify-between">
-        <h1 className="text-4xl text-violet-500">UGC</h1>
-        <a className="text-2xl text-violet-500" href="https://discord.gg/EVXYfrgyqh">support</a>
-      </div>
+      <nav className="bg-violet-500 flex justify-between">
+        <h1 className="text-4xl text-white">UGC</h1>
+        <a className="text-2xl text-white" href="https://discord.gg/EVXYfrgyqh">support</a>
+      </nav>
       <main className="h-5">{children}</main>
     </div>
   )
