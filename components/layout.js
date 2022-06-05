@@ -7,7 +7,7 @@ export default function Layout({ children }) {
       <Head>
         <title>union global chat公式サイト</title>
       </Head>
-      <nav className="bg-violet-500 flex justify-between h-10">
+      <nav className="bg-violet-500 flex justify-between h-15">
         <h1 className="text-4xl text-white">UGC</h1>
         <div>
           <Link href="/support">
