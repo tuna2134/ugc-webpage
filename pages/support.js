@@ -1,4 +1,4 @@
-import Layout import '../components/layout'
+import Layout from '../components/layout'
 
 export default function Support() {
   return (
