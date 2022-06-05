@@ -6,7 +6,7 @@ export default function Support() {
       <div className="flex">
         <div className="border-4 rounded-md border-sky-400">
           <h3>Discord</h3>
-          <a href="https://discord.gg/EVXYfrgyqh">https://discord.gg/EVXYfrgyqh</a>
+          <a className="text-indigo-500" href="https://discord.gg/EVXYfrgyqh">https://discord.gg/EVXYfrgyqh</a>
         </div>
       </div>
     </Layout>
