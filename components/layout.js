@@ -17,7 +17,7 @@ export default function Layout({ children }) {
           </Link>
         </div>
       </nav>
-      <main className="h-5">{children}</main>
+      <main className="h-6">{children}</main>
     </div>
   )
 }
