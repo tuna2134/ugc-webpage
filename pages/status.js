@@ -6,7 +6,7 @@ export default function () {
   return (
     <Layout>
       <h2>Status Page</h2>
-      <Script src="/status.js"></Script>
+      <Script src="/status.js" />
     </Layout>
   )
 }
