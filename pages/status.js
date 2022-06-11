@@ -6,7 +6,7 @@ export default function () {
   return (
     <Layout>
       <h2>Status Page</h2>
-      <Script src="/status.js" />
+      <Script src="https://ugc-webpage.vercel.app/status.js" />
     </Layout>
   )
 }
