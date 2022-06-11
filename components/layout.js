@@ -14,6 +14,9 @@ export default function Layout({ children }) {
           <h1 className="text-4xl text-white">UGC</h1>
         </Link>
         <div>
+          <Link href="/status">
+            <a className="rounded-md text-2xl text-white bg-violet-300">status</a>
+          </Link>
           <Link href="/support">
             <a className="rounded-md text-2xl text-white bg-violet-300">support</a>
           </Link>
