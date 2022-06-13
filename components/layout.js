@@ -7,6 +7,8 @@ export default function Layout({ children }) {
     <div>
       <Head>
         <title>union global chat公式サイト</title>
+        <meta name="title" content="Union Global Chat公式サイト" />
+        <meta name="description" content="Botのグローバルチャットを連携させます" />
       </Head>
       <Script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></Script>
       <nav className="bg-violet-500 flex justify-between h-14">
